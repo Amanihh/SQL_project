@@ -71,5 +71,5 @@ This project was executed as a **Business Analytics initiative** for a mid-sized
 - 👥 **RFM-Based Customer Segmentation**
 - 📊 **Year-over-Year Growth**
 
-[Screenshot 2025-06-27 164808](https://github.com/user-attachments/assets/318a2088-19b4-4f92-9ff2-204211327d1a)
+![Screenshot 2025-06-27 164808](https://github.com/user-attachments/assets/318a2088-19b4-4f92-9ff2-204211327d1a)
 
