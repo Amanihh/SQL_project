@@ -73,3 +73,30 @@ This project was executed as a **Business Analytics initiative** for a mid-sized
 
 ![Screenshot 2025-06-27 164808](https://github.com/user-attachments/assets/318a2088-19b4-4f92-9ff2-204211327d1a)
 
+## Key Analytical Insights
+
+- Customer Spend: Most customers spend ₹50–₹300; very few spend ₹1000+
+- Order Frequency: Approximately 85–90% of customers are one-time buyers
+- Payment Method: Credit Cards dominate with over 75% usage
+- Top Revenue States: SP, RJ, MG
+- Category Leaders: Health, Watches, and Computing products
+
+---
+
+## Final Business Recommendations
+
+- **Launch Loyalty Program**  
+  Increase repeat purchase frequency among one-time buyers
+
+- **Re-engagement Campaigns**  
+  Target customers with high recency but low frequency
+
+- **Upsell to High RFM Segments**  
+  Offer premium bundles and exclusive deals to the top 10% of customers
+
+- **Subscription-Based Models**  
+  Target customers with high monetary value but low frequency
+
+- **Combo & Bundling Offers**  
+  Increase Average Order Value (AOV) and repeat purchases with product bundles
+
