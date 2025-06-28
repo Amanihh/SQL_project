@@ -100,3 +100,20 @@ This project was executed as a **Business Analytics initiative** for a mid-sized
 - **Combo & Bundling Offers**  
   Increase Average Order Value (AOV) and repeat purchases with product bundles
 
+---
+
+## Project Structure
+
+/Financial_Analytics  
+│  
+├── SQL/  
+│   └── data_cleaning_queries.sql  
+│  
+├── Python/  
+│   └── RFM_analysis.ipynb  
+│  
+├── PowerBI/  
+│   ├── Dashboard.pbix  
+│   └── Power-Bi Dashboard.png  
+│  
+└── README.md  
